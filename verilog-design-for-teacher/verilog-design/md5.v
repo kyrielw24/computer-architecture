@@ -1,7 +1,6 @@
 `include "md5round.v"
 `include "defs.v"
 
-integer i;
 
 module md5 (
     input clk,

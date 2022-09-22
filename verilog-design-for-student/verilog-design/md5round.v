@@ -18,7 +18,9 @@ module md5round (
 // TODO: add code for calculating single round
 
 //定义 uint32_t res = 0
-reg [31:0] add_res
+reg [31:0] res;
+
+assign next_a = b + ((res<<s)|(res>>(32-s)));
 
 //定义FGHI单独的运算结果
 reg [3:0][31:0] FGHI;
@@ -32,13 +34,11 @@ I i(.x(b), .y(c), .z(d), .res(FGHI[3]));
 // add_res 计算结果
 always@(*) begin
     case(r)
-        0: add_res = a + FGHI[0] + m + t;
-        1: add_res = a + FGHI[1] + m + t;
-        2: add_res = a + FGHI[2] + m + t;
-        3: add_res = a + FGHI[3] + m + t;
+        0: res = a + FGHI[0] + m + t;
+        1: res = a + FGHI[1] + m + t;
+        2: res = a + FGHI[2] + m + t;
+        3: res = a + FGHI[3] + m + t;
     endcase
 end
-
-assign next_a = b + (add_res<<s)|(add_res>>(32-s));
 
 endmodule

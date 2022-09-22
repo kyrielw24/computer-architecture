@@ -1,0 +1,64 @@
+Performing C++ SOURCE FILE Test _fbracket_depth_4096 failed with the following output:
+Change Dir: /home/kyrie/computer-architecture/verilog-design-for-teacher/verilog-design/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_47770/fast && /usr/bin/make  -f CMakeFiles/cmTC_47770.dir/build.make CMakeFiles/cmTC_47770.dir/build
+make[1]: Entering directory '/home/kyrie/computer-architecture/verilog-design-for-teacher/verilog-design/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_47770.dir/src.cxx.o
+/usr/bin/c++ -D_fbracket_depth_4096  -fbracket-depth=4096 -o CMakeFiles/cmTC_47770.dir/src.cxx.o -c /home/kyrie/computer-architecture/verilog-design-for-teacher/verilog-design/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-fbracket-depth=4096'
+make[1]: *** [CMakeFiles/cmTC_47770.dir/build.make:78: CMakeFiles/cmTC_47770.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/kyrie/computer-architecture/verilog-design-for-teacher/verilog-design/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:127: cmTC_47770/fast] Error 2
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test _mno_cet failed with the following output:
+Change Dir: /home/kyrie/computer-architecture/verilog-design-for-teacher/verilog-design/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_34541/fast && /usr/bin/make  -f CMakeFiles/cmTC_34541.dir/build.make CMakeFiles/cmTC_34541.dir/build
+make[1]: Entering directory '/home/kyrie/computer-architecture/verilog-design-for-teacher/verilog-design/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_34541.dir/src.cxx.o
+/usr/bin/c++ -D_mno_cet  -mno-cet -o CMakeFiles/cmTC_34541.dir/src.cxx.o -c /home/kyrie/computer-architecture/verilog-design-for-teacher/verilog-design/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-mno-cet'; did you mean '-mno-aes'?
+make[1]: *** [CMakeFiles/cmTC_34541.dir/build.make:78: CMakeFiles/cmTC_34541.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/kyrie/computer-architecture/verilog-design-for-teacher/verilog-design/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:127: cmTC_34541/fast] Error 2
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test _Qunused_arguments failed with the following output:
+Change Dir: /home/kyrie/computer-architecture/verilog-design-for-teacher/verilog-design/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_11627/fast && /usr/bin/make  -f CMakeFiles/cmTC_11627.dir/build.make CMakeFiles/cmTC_11627.dir/build
+make[1]: Entering directory '/home/kyrie/computer-architecture/verilog-design-for-teacher/verilog-design/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_11627.dir/src.cxx.o
+/usr/bin/c++ -D_Qunused_arguments  -Qunused-arguments -o CMakeFiles/cmTC_11627.dir/src.cxx.o -c /home/kyrie/computer-architecture/verilog-design-for-teacher/verilog-design/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-Qunused-arguments'
+make[1]: *** [CMakeFiles/cmTC_11627.dir/build.make:78: CMakeFiles/cmTC_11627.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/kyrie/computer-architecture/verilog-design-for-teacher/verilog-design/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:127: cmTC_11627/fast] Error 2
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test _mt failed with the following output:
+Change Dir: /home/kyrie/computer-architecture/verilog-design-for-teacher/verilog-design/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_8cc0a/fast && /usr/bin/make  -f CMakeFiles/cmTC_8cc0a.dir/build.make CMakeFiles/cmTC_8cc0a.dir/build
+make[1]: Entering directory '/home/kyrie/computer-architecture/verilog-design-for-teacher/verilog-design/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_8cc0a.dir/src.cxx.o
+/usr/bin/c++ -D_mt   -o CMakeFiles/cmTC_8cc0a.dir/src.cxx.o -c /home/kyrie/computer-architecture/verilog-design-for-teacher/verilog-design/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_8cc0a
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8cc0a.dir/link.txt --verbose=1
+/usr/bin/c++ CMakeFiles/cmTC_8cc0a.dir/src.cxx.o -o cmTC_8cc0a  -mt 
+c++: error: unrecognized command line option ‘-mt’; did you mean ‘-t’?
+make[1]: *** [CMakeFiles/cmTC_8cc0a.dir/build.make:99: cmTC_8cc0a] Error 1
+make[1]: Leaving directory '/home/kyrie/computer-architecture/verilog-design-for-teacher/verilog-design/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:127: cmTC_8cc0a/fast] Error 2
+
+
+Source file was:
+int main() {return 0;}
+

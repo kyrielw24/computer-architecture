@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/kyrie/computer-architecture/test/build",
+  "command": "/usr/bin/c++ -DVM_COVERAGE=0 -DVM_SC=0 -DVM_TRACE=0 -DVM_TRACE_FST=0 -DVM_TRACE_VCD=0 -I/home/kyrie/computer-architecture/test/build/CMakeFiles/TestBench.dir/Vmd5.dir -I/usr/share/verilator/include -I/usr/share/verilator/include/vltstd  -o CMakeFiles/TestBench.dir/top.cpp.o -c /home/kyrie/computer-architecture/test/top.cpp",
+  "file": "/home/kyrie/computer-architecture/test/top.cpp"
+},
+{
+  "directory": "/home/kyrie/computer-architecture/test/build",
+  "command": "/usr/bin/c++ -DVM_COVERAGE=0 -DVM_SC=0 -DVM_TRACE=0 -DVM_TRACE_FST=0 -DVM_TRACE_VCD=0 -I/home/kyrie/computer-architecture/test/build/CMakeFiles/TestBench.dir/Vmd5.dir -I/usr/share/verilator/include -I/usr/share/verilator/include/vltstd  -o CMakeFiles/TestBench.dir/CMakeFiles/TestBench.dir/Vmd5.dir/Vmd5.cpp.o -c /home/kyrie/computer-architecture/test/build/CMakeFiles/TestBench.dir/Vmd5.dir/Vmd5.cpp",
+  "file": "/home/kyrie/computer-architecture/test/build/CMakeFiles/TestBench.dir/Vmd5.dir/Vmd5.cpp"
+},
+{
+  "directory": "/home/kyrie/computer-architecture/test/build",
+  "command": "/usr/bin/c++ -DVM_COVERAGE=0 -DVM_SC=0 -DVM_TRACE=0 -DVM_TRACE_FST=0 -DVM_TRACE_VCD=0 -I/home/kyrie/computer-architecture/test/build/CMakeFiles/TestBench.dir/Vmd5.dir -I/usr/share/verilator/include -I/usr/share/verilator/include/vltstd  -o CMakeFiles/TestBench.dir/CMakeFiles/TestBench.dir/Vmd5.dir/Vmd5___024unit.cpp.o -c /home/kyrie/computer-architecture/test/build/CMakeFiles/TestBench.dir/Vmd5.dir/Vmd5___024unit.cpp",
+  "file": "/home/kyrie/computer-architecture/test/build/CMakeFiles/TestBench.dir/Vmd5.dir/Vmd5___024unit.cpp"
+},
+{
+  "directory": "/home/kyrie/computer-architecture/test/build",
+  "command": "/usr/bin/c++ -DVM_COVERAGE=0 -DVM_SC=0 -DVM_TRACE=0 -DVM_TRACE_FST=0 -DVM_TRACE_VCD=0 -I/home/kyrie/computer-architecture/test/build/CMakeFiles/TestBench.dir/Vmd5.dir -I/usr/share/verilator/include -I/usr/share/verilator/include/vltstd  -o CMakeFiles/TestBench.dir/CMakeFiles/TestBench.dir/Vmd5.dir/Vmd5__Syms.cpp.o -c /home/kyrie/computer-architecture/test/build/CMakeFiles/TestBench.dir/Vmd5.dir/Vmd5__Syms.cpp",
+  "file": "/home/kyrie/computer-architecture/test/build/CMakeFiles/TestBench.dir/Vmd5.dir/Vmd5__Syms.cpp"
+},
+{
+  "directory": "/home/kyrie/computer-architecture/test/build",
+  "command": "/usr/bin/c++ -DVM_COVERAGE=0 -DVM_SC=0 -DVM_TRACE=0 -DVM_TRACE_FST=0 -DVM_TRACE_VCD=0 -I/home/kyrie/computer-architecture/test/build/CMakeFiles/TestBench.dir/Vmd5.dir -I/usr/share/verilator/include -I/usr/share/verilator/include/vltstd  -o CMakeFiles/TestBench.dir/usr/share/verilator/include/verilated.cpp.o -c /usr/share/verilator/include/verilated.cpp",
+  "file": "/usr/share/verilator/include/verilated.cpp"
+}
+]

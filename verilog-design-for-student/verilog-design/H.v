@@ -1,4 +1,4 @@
-module G (
+module H (
     input [31:0]x,
     input [31:0]y,
     input [31:0]z,

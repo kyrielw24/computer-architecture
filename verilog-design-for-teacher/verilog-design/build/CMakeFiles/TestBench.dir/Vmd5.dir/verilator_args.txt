@@ -1,0 +1,1 @@
+/usr/bin/verilator_bin;--compiler;gcc;--prefix;Vmd5;--Mdir;/home/kyrie/computer-architecture/verilog-design-for-teacher/verilog-design/build/CMakeFiles/TestBench.dir/Vmd5.dir;--make;cmake;--cc;md5.v

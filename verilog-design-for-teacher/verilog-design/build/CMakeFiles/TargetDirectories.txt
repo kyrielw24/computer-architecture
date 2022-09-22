@@ -1,0 +1,3 @@
+/home/kyrie/computer-architecture/verilog-design-for-teacher/verilog-design/build/CMakeFiles/TestBench.dir
+/home/kyrie/computer-architecture/verilog-design-for-teacher/verilog-design/build/CMakeFiles/edit_cache.dir
+/home/kyrie/computer-architecture/verilog-design-for-teacher/verilog-design/build/CMakeFiles/rebuild_cache.dir

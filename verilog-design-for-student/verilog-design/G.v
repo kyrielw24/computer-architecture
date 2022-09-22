@@ -6,6 +6,6 @@ module G (
 );
 always@(*) 
     begin
-        res = (x & Z) | (y & (~z));
+        res = (x & z) | (y & (~z));
     end
 endmodule
