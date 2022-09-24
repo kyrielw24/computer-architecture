@@ -1,6 +1,0 @@
-cmake_minimum_required(VERSION 3.0)
-project(md5-chip)
-set(CMAKE_EXPORT_COMPILE_COMMANDS true)
-find_package(verilator HINTS $ENV{VERILATOR_ROOT})
-add_executable(TestBench top.cpp)
-verilate(TestBench SOURCES md5.v)
