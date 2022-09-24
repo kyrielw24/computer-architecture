@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = -DVM_COVERAGE=0 -DVM_SC=0 -DVM_TRACE=0 -DVM_TRACE_FST=0 -DVM_TRACE_VCD=0
 
-CXX_INCLUDES = -I/home/kyrie/computer-architecture/verilog-design-for-student/verilog-design/build/CMakeFiles/TestBench.dir/Vmd5.dir -I/usr/share/verilator/include -I/usr/share/verilator/include/vltstd
+CXX_INCLUDES = -I/home/kyrie/computer-architecture/Lab01/verilog-design-for-student/verilog-design/build/CMakeFiles/TestBench.dir/Vmd5.dir -I/usr/share/verilator/include -I/usr/share/verilator/include/vltstd
 
 CXX_FLAGS = 
 

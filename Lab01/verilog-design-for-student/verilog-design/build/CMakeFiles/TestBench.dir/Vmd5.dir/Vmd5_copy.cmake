@@ -33,9 +33,9 @@ set(Vmd5_GLOBAL "${VERILATOR_ROOT}/include/verilated.cpp")
 # Generated module classes, non-fast-path, compile with low/medium optimization
 set(Vmd5_CLASSES_SLOW )
 # Generated module classes, fast-path, compile with highest optimization
-set(Vmd5_CLASSES_FAST "/home/kyrie/computer-architecture/verilog-design-for-student/verilog-design/build/CMakeFiles/TestBench.dir/Vmd5.dir/Vmd5.cpp" "/home/kyrie/computer-architecture/verilog-design-for-student/verilog-design/build/CMakeFiles/TestBench.dir/Vmd5.dir/Vmd5___024unit.cpp")
+set(Vmd5_CLASSES_FAST "/home/kyrie/computer-architecture/Lab01/verilog-design-for-student/verilog-design/build/CMakeFiles/TestBench.dir/Vmd5.dir/Vmd5.cpp" "/home/kyrie/computer-architecture/Lab01/verilog-design-for-student/verilog-design/build/CMakeFiles/TestBench.dir/Vmd5.dir/Vmd5___024unit.cpp")
 # Generated support classes, non-fast-path, compile with low/medium optimization
-set(Vmd5_SUPPORT_SLOW "/home/kyrie/computer-architecture/verilog-design-for-student/verilog-design/build/CMakeFiles/TestBench.dir/Vmd5.dir/Vmd5__Syms.cpp")
+set(Vmd5_SUPPORT_SLOW "/home/kyrie/computer-architecture/Lab01/verilog-design-for-student/verilog-design/build/CMakeFiles/TestBench.dir/Vmd5.dir/Vmd5__Syms.cpp")
 # Generated support classes, fast-path, compile with highest optimization
 set(Vmd5_SUPPORT_FAST )
 # All dependencies

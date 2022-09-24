@@ -1,4 +1,4 @@
-# Install script for directory: /home/kyrie/computer-architecture/verilog-design-for-student/verilog-design
+# Install script for directory: /home/kyrie/computer-architecture/Lab01/verilog-design-for-student/verilog-design
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/kyrie/computer-architecture/verilog-design-for-student/verilog-design/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/kyrie/computer-architecture/Lab01/verilog-design-for-student/verilog-design/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

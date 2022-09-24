@@ -1,5 +1,5 @@
 CMakeFiles/TestBench.dir/top.cpp.o: \
- /home/kyrie/computer-architecture/verilog-design-for-student/verilog-design/top.cpp \
+ /home/kyrie/computer-architecture/Lab01/verilog-design-for-student/verilog-design/top.cpp \
  /usr/include/stdc-predef.h \
  /usr/include/x86_64-linux-gnu/c++/9/bits/stdc++.h \
  /usr/include/c++/9/cassert \
@@ -284,4 +284,4 @@ CMakeFiles/TestBench.dir/top.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/getopt_posix.h \
  /usr/include/x86_64-linux-gnu/bits/getopt_core.h \
  /usr/include/x86_64-linux-gnu/bits/unistd_ext.h \
- /home/kyrie/computer-architecture/verilog-design-for-student/verilog-design/build/CMakeFiles/TestBench.dir/Vmd5.dir/Vmd5.h
+ /home/kyrie/computer-architecture/Lab01/verilog-design-for-student/verilog-design/build/CMakeFiles/TestBench.dir/Vmd5.dir/Vmd5.h
