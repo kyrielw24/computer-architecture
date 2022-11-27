@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="778660000fs"></ZoomStartTime>
+      <ZoomEndTime time="1010260001fs"></ZoomEndTime>
+      <Cursor1Time time="834060000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="129"></NameColumnWidth>
+      <ValueColumnWidth column_width="143"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="23" />
+   <wvobject fp_name="/tb/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/resetn" type="logic">
+      <obj_property name="ElementShortName">resetn</obj_property>
+      <obj_property name="ObjectShortName">resetn</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/rf_addr" type="array">
+      <obj_property name="ElementShortName">rf_addr[4:0]</obj_property>
+      <obj_property name="ObjectShortName">rf_addr[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/mem_addr" type="array">
+      <obj_property name="ElementShortName">mem_addr[31:0]</obj_property>
+      <obj_property name="ObjectShortName">mem_addr[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/rf_data" type="array">
+      <obj_property name="ElementShortName">rf_data[31:0]</obj_property>
+      <obj_property name="ObjectShortName">rf_data[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/mem_data" type="array">
+      <obj_property name="ElementShortName">mem_data[31:0]</obj_property>
+      <obj_property name="ObjectShortName">mem_data[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/IF_pc" type="array">
+      <obj_property name="ElementShortName">IF_pc[31:0]</obj_property>
+      <obj_property name="ObjectShortName">IF_pc[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/IF_inst" type="array">
+      <obj_property name="ElementShortName">IF_inst[31:0]</obj_property>
+      <obj_property name="ObjectShortName">IF_inst[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/ID_pc" type="array">
+      <obj_property name="ElementShortName">ID_pc[31:0]</obj_property>
+      <obj_property name="ObjectShortName">ID_pc[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/EXE_pc" type="array">
+      <obj_property name="ElementShortName">EXE_pc[31:0]</obj_property>
+      <obj_property name="ObjectShortName">EXE_pc[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/MEM_pc" type="array">
+      <obj_property name="ElementShortName">MEM_pc[31:0]</obj_property>
+      <obj_property name="ObjectShortName">MEM_pc[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/WB_pc" type="array">
+      <obj_property name="ElementShortName">WB_pc[31:0]</obj_property>
+      <obj_property name="ObjectShortName">WB_pc[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/cpu_5_valid" type="array">
+      <obj_property name="ElementShortName">cpu_5_valid[31:0]</obj_property>
+      <obj_property name="ObjectShortName">cpu_5_valid[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/F_Over" type="logic">
+      <obj_property name="ElementShortName">F_Over</obj_property>
+      <obj_property name="ObjectShortName">F_Over</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/F_Valid" type="logic">
+      <obj_property name="ElementShortName">F_Valid</obj_property>
+      <obj_property name="ObjectShortName">F_Valid</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/D" type="logic">
+      <obj_property name="ElementShortName">D</obj_property>
+      <obj_property name="ObjectShortName">D</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/D1" type="logic">
+      <obj_property name="ElementShortName">D1</obj_property>
+      <obj_property name="ObjectShortName">D1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/D_Over" type="logic">
+      <obj_property name="ElementShortName">D_Over</obj_property>
+      <obj_property name="ObjectShortName">D_Over</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/D_Valid" type="logic">
+      <obj_property name="ElementShortName">D_Valid</obj_property>
+      <obj_property name="ObjectShortName">D_Valid</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/E_Over" type="logic">
+      <obj_property name="ElementShortName">E_Over</obj_property>
+      <obj_property name="ObjectShortName">E_Over</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/E_Valid" type="logic">
+      <obj_property name="ElementShortName">E_Valid</obj_property>
+      <obj_property name="ObjectShortName">E_Valid</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/M_Over" type="logic">
+      <obj_property name="ElementShortName">M_Over</obj_property>
+      <obj_property name="ObjectShortName">M_Over</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/M_Valid" type="logic">
+      <obj_property name="ElementShortName">M_Valid</obj_property>
+      <obj_property name="ObjectShortName">M_Valid</obj_property>
+   </wvobject>
+</wave_config>

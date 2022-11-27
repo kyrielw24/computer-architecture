@@ -1,0 +1,18 @@
+0.6
+2017.1
+Apr 14 2017
+19:10:27
+D:/Edge_download/source_code/8_pipeline_cpu/adder.v,1461905924,verilog,,,,adder,,,,,,,,
+D:/Edge_download/source_code/8_pipeline_cpu/alu.v,1461985380,verilog,,,,alu,,,,,,,,
+D:/Edge_download/source_code/8_pipeline_cpu/decode.v,1669478909,verilog,,,,decode,,,,,,,,
+D:/Edge_download/source_code/8_pipeline_cpu/exe.v,1669480058,verilog,,,,exe,,,,,,,,
+D:/Edge_download/source_code/8_pipeline_cpu/fetch.v,1669480604,verilog,,,,fetch,,,,,,,,
+D:/Edge_download/source_code/8_pipeline_cpu/mem.v,1669480205,verilog,,,,mem,,,,,,,,
+D:/Edge_download/source_code/8_pipeline_cpu/multiply.v,1462586548,verilog,,,,multiply,,,,,,,,
+D:/Edge_download/source_code/8_pipeline_cpu/pipeline_cpu.v,1669482631,verilog,,,,pipeline_cpu,,,,,,,,
+D:/Edge_download/source_code/8_pipeline_cpu/regfile.v,1461985342,verilog,,,,regfile,,,,,,,,
+D:/Edge_download/source_code/8_pipeline_cpu/tb.v,1669482650,verilog,,,,tb,,,,,,,,
+D:/Edge_download/source_code/8_pipeline_cpu/wb.v,1669482802,verilog,,,,wb,,,,,,,,
+D:/TEMP_Work/vivado_work/pipeline_same/pipeline_same.sim/sim_1/behav/glbl.v,1492045073,verilog,,,,glbl,,,,,,,,
+D:/TEMP_Work/vivado_work/pipeline_same/pipeline_same.srcs/sources_1/ip/data_ram/sim/data_ram.v,1669465912,verilog,,,,data_ram,,,,,,,,
+D:/TEMP_Work/vivado_work/pipeline_same/pipeline_same.srcs/sources_1/ip/inst_rom/sim/inst_rom.v,1669466030,verilog,,,,inst_rom,,,,,,,,
